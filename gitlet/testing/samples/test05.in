@@ -1,0 +1,6 @@
+I setup2.inc
++ h.txt wug.txt
+> add h.txt
+<<<
+> commit "Add h"
+<<<
