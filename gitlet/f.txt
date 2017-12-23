@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is a wug2.
-======
-this is not a wug.
->>>>>>>
